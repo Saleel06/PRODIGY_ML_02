@@ -58,6 +58,6 @@ This project is part of my internship at **Prodigy Infotech**. In Task-02, I dev
 - `README.md`: Project documentation.
 
 ## 📢 Connect with Me
-- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/saleelshanuk/))
+- LinkedIn: [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/saleelshanuk/)
 
 
