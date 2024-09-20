@@ -34,7 +34,7 @@ This project is part of my internship at **Prodigy Infotech**. In Task-02, I dev
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/PRODIGY_TrackCode_Task02.git
+    git clone https://github.com/saleel06/PRODIGY_ML_02.git
     ```
 2. Navigate to the project directory:
     ```bash
