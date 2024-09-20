@@ -30,20 +30,7 @@ This project is part of my internship at **Prodigy Infotech**. In Task-02, I dev
 - Identified distinct customer groups based on their annual income and spending score.
 - Insights can be used for personalized marketing and targeted promotional strategies.
 
-## 🚀 How to Run the Project
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/saleel06/PRODIGY_ML_02.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd PRODIGY_TrackCode_Task02
-    ```
-3. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
 4. Run the Jupyter Notebook or Python script to see the analysis and visualizations.
 
 ## 🔧 Future Work
